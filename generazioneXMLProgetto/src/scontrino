@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DatiCorrispettivi versione="COR10">
+  <Trasmissione>
+    <Progressivo />
+    <Formato />
+    <Dispositivo>
+      <Tipo />
+      <IdDispositivo />
+      <GeoLocalizzazione>
+        <Lat />
+        <Long />
+      </GeoLocalizzazione>
+    </Dispositivo>
+  </Trasmissione>
+  <PeriodoInattivo>
+    <Dal />
+    <Al />
+  </PeriodoInattivo>
+  <DataOraRilevazione />
+  <DatiRT>
+    <Riepilogo>
+      <IVA>
+        <AliquotaIVA />
+        <Imposta />
+      </IVA>
+      <Natura />
+      <VentilazioneIVA />
+      <Ammontare />
+      <RifNormativo />
+      <ImportoParziale />
+      <TotaleAmmontareResi />
+      <TotaleAmmontareAnnulli />
+      <BeniInSospeso />
+      <NonRiscossoServizi />
+      <NonRiscossoFatture />
+      <TotaleDaFattureRT />
+      <NonRiscossoDCRaSSN />
+      <NonRiscossoOmaggio />
+      <CodiceAttivita />
+      <Totali>
+        <NumeroDocCommerciali />
+        <PagatoContanti />
+        <PagatoElettronico />
+        <ScontoApagare />
+        <Ticket>
+          <PagatoTicket />
+          <NumeroTicket />
+        </Ticket>
+      </Totali>
+    </Riepilogo>
+  </DatiRT>
+  <DatiDA>
+    <Periodo>
+      <Venduto />
+      <VendutoContante />
+      <VendutoNoContante />
+      <Incassato />
+      <IncassatoRicarica />
+      <IncassatoVendita />
+      <TotaleResoTubiResto />
+      <TotaleCaricatoTubiResto />
+      <TotaleResoManualeTubiResto />
+      <TotaleCaricatoManualeTubiResto />
+      <DataOraPrelievoPrec />
+      <ProgressivoPrelievo />
+    </Periodo>
+    <Cumulato>
+      <Venduto />
+      <VendutoContante />
+      <VendutoNoContante />
+      <Incassato />
+      <IncassatoRicarica />
+      <IncassatoVendita />
+      <TotaleResoTubiResto>9</TotaleResoTubiResto>
+      <TotaleCaricatoTubiResto />
+      <TotaleResoManualeTubiResto />
+      <TotaleCaricatoManualeTubiResto />
+    </Cumulato>
+  </DatiDA>
+  <InterventoTecnico>
+    <CFTecnico />
+    <IdIVALaboratorio>
+      <IdPaese />
+      <IdCodice />
+    </IdIVALaboratorio>
+    <DataOra />
+    <Codice />
+    <Note />
+    <NumeroSw />
+    <DataRelease />
+  </InterventoTecnico>
+  <Segnalazione>
+    <Matricola />
+    <DataOra />
+    <Codice />
+    <Note />
+  </Segnalazione>
+</DatiCorrispettivi>
+
