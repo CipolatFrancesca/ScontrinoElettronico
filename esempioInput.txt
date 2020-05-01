@@ -1,0 +1,77 @@
+		String progressivo="1"; //formato numerico
+        String formato="COR10";
+        String tipo="";//valori ammessi:[DA]: vending machine 
+								//[MC]: soggetti con più punti cassa per singolo punto vendita
+
+        String idDispositivo="cassa4"; //formato alfanumerico
+
+        String latGeo="5.5";//formato numerico; i decimali vanno separati dall'intero con il carattere '.' (punto)
+        String longGeo="7.2";//formato numerico; i decimali vanno separati dall'intero con il carattere '.' (punto)
+
+        String dal="2020-04-02T12:45:55";//formato ISO 8601:2004, con la precisione seguente: YYYY-MM-DDTHH:MM:SS
+        String al="2020-04-02T12:45:55";//formato ISO 8601:2004, con la precisione seguente: YYYY-MM-DDTHH:MM:SS
+        String dataOraRilevazione="2020-04-02T12:45:55";//formato ISO 8601:2004, con la precisione seguente: YYYY-MM-DDTHH:MM:SS
+
+        String aliquotaIVA="22.5";//formato numerico; i decimali vanno separati dall'intero con il carattere '.' (punto)
+        String imposta="22.5";//formato numerico; i decimali vanno separati dall'intero con il carattere '.' (punto)
+        String natura="N4";//N1 escluse ex art. 15 N2 non soggette N3 non imponibili N4 Esenti N5 regime del margine N6 Altro non IVA
+        String ventilazioneIVA="SI"; //valori ammessi:[SI]
+        String ammontare="4.4";//formato numerico; i decimali vanno separati dall'intero con il carattere '.' (punto)
+        String rifNormativo="4";//formato numerico
+        String importoParziale="6.6";//formato numerico; i decimali vanno separati dall'intero con il carattere '.' (punto)
+        String totaleAmmontareResi="6.5";//formato numerico; i decimali vanno separati dall'intero con il carattere '.' (punto)
+        String totaleAmmontareAnnulli="5.6";//formato numerico; i decimali vanno separati dall'intero con il carattere '.' (punto)
+        String beniInSospeso="4.4";//formato numerico; i decimali vanno separati dall'intero con il carattere '.' (punto)
+        String nonRiscossoServizi="8.8";//formato numerico; i decimali vanno separati dall'intero con il carattere '.' (punto)
+        String nonRiscossoFatture="8.6";//formato numerico; i decimali vanno separati dall'intero con il carattere '.' (punto)
+        String totaleDaFattureRT="5.5";//formato numerico; i decimali vanno separati dall'intero con il carattere '.' (punto)
+        String nonRiscossoDCRaSSN="4.6";//formato numerico; i decimali vanno separati dall'intero con il carattere '.' (punto)
+        String nonRiscossoOmaggio="8.8";//formato numerico; i decimali vanno separati dall'intero con il carattere '.' (punto)
+        String codiceAttivita="3";//formato numerico
+
+        String numeroDocCommerciali="4";//formato numerico
+        String pagatoContanti="4.4";//formato numerico; i decimali vanno separati dall'intero con il carattere '.' (punto)
+        String pagatoElettronico="6.6";//formato numerico; i decimali vanno separati dall'intero con il carattere '.' (punto)
+        String scontoApagare="3.2";//formato numerico; i decimali vanno separati dall'intero con il carattere '.' (punto)
+
+        String pagatoTicket="3.2";//formato numerico; i decimali vanno separati dall'intero con il carattere '.' (punto)
+        String numeroTicket="3";//formato numerico
+
+        String venduto="3.6";//formato numerico; i decimali vanno separati dall'intero con il carattere '.' (punto)
+        String vendutoContante="3.4";//formato numerico; i decimali vanno separati dall'intero con il carattere '.' (punto)
+        String vendutoNoContante="4.4";//formato numerico; i decimali vanno separati dall'intero con il carattere '.' (punto)
+        String incassato="3.4";//formato numerico; i decimali vanno separati dall'intero con il carattere '.' (punto)
+        String incassatoRicarica="2.2";//formato numerico; i decimali vanno separati dall'intero con il carattere '.' (punto)
+        String incassatoVendita="4.4";//formato numerico; i decimali vanno separati dall'intero con il carattere '.' (punto)
+        String totaleResoTubiResto="4.4";//formato numerico; i decimali vanno separati dall'intero con il carattere '.' (punto)
+        String totaleCaricatoTubiResto="3.3";//formato numerico; i decimali vanno separati dall'intero con il carattere '.' (punto)
+        String totaleResoManualeTubiResto="3.3";//formato numerico; i decimali vanno separati dall'intero con il carattere '.' (punto)
+        String totaleCaricatoManualeTubiResto="3.3";//formato numerico; i decimali vanno separati dall'intero con il carattere '.' (punto)
+        String dataOraPrelievoPrec="2020-04-02T12:45:55";//formato ISO 8601:2004, con la precisione seguente: YYYY-MM-DDTHH:MM:SS
+        String progressivoPrelievo="3";//formato numerico
+
+        String vendutoC="33.3";//formato numerico; i decimali vanno separati dall'intero con il carattere '.' (punto)
+        String vendutoContanteC="2.2";//formato numerico; i decimali vanno separati dall'intero con il carattere '.' (punto)
+        String vendutoNoContanteC="3.3";//formato numerico; i decimali vanno separati dall'intero con il carattere '.' (punto)
+        String incassatoC="6.6";//formato numerico; i decimali vanno separati dall'intero con il carattere '.' (punto)
+        String incassatoRicaricaC="6.6";//formato numerico; i decimali vanno separati dall'intero con il carattere '.' (punto)
+        String incassatoVenditaC="5.5";//formato numerico; i decimali vanno separati dall'intero con il carattere '.' (punto)
+        String totaleResoTubiRestoC="5.5";//formato numerico; i decimali vanno separati dall'intero con il carattere '.' (punto)
+        String totaleCaricatoTubiRestoC="4.4";//formato numerico; i decimali vanno separati dall'intero con il carattere '.' (punto)
+        String totaleResoManualeTubiRestoC="3.5";//formato numerico; i decimali vanno separati dall'intero con il carattere '.' (punto)
+        String totaleCaricatoManualeTubiRestoC="5.";//formato numerico; i decimali vanno separati dall'intero con il carattere '.' (punto)
+
+        String cFTecnico="mdrudf25";//formato alfanumerico (codice fiscale)
+
+        String idPaese="IT";[IT], [ES], [DK],[...]
+        String idCodice="cod45";//formato alfanumerico
+        String dataOra="2020-04-02T12:45:55";//formato ISO 8601:2004, con la precisione seguente: YYYY-MM-DDTHH:MM:SS
+        String codice="01";//01 manutenzione (ordinaria o straordinaria) 02 sostituzione del DGFE per guasto o esaurimento 03 verificazione periodica con esito positivo 04 verificazione periodica con esito negativo 05 verifica periodica con ritiro apparecchio 06 altro (in questo caso è obbligatoria una nota esplicativa dell'intervento) 07 Aggiornamento Software
+        String numeroSw="sw5";//formato alfanumerico
+        String dataRelease="2020-04-02T12:45:55";//formato ISO 8601:2004, con la precisione seguente: YYYY-MM-DDTHH:MM:SS
+		String note="intervento tecnico guasto";//formato alfanumerico
+
+        String matricola="mat05";//formato alfanumerico
+        String dataOraS="2020-04-02T12:45:55";//formato ISO 8601:2004, con la precisione seguente: YYYY-MM-DDTHH:MM:SS
+        String codiceS="01";//01 Blocco Vending Machine per problemi di sicurezza nella comunicazione tra SM e MF 02 Anomalia del punto cassa
+        String noteS="segnalazione di errore";//formato alfanumerico
