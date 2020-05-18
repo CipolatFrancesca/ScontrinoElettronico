@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DatiCorrispettivi versione="COR10" simulazione="true">
+  <Trasmissione>
+    <Progressivo>1</Progressivo>
+    <Formato>COR10</Formato>
+    <Dispositivo>
+      <Tipo>MC</Tipo>
+      <IdDispositivo>6</IdDispositivo>
+      <GeoLocalizzazione>
+        <Lat>6.0</Lat>
+        <Long>6.0</Long>
+      </GeoLocalizzazione>
+    </Dispositivo>
+  </Trasmissione>
+  <PeriodoInattivo>
+    <Dal>2020-05-01T04:38:23</Dal>
+    <Al>2020-05-01T04:38:23</Al>
+  </PeriodoInattivo>
+  <DataOraRilevazione>2020-05-01T04:38:23</DataOraRilevazione>
+  <DatiRT>
+    <Riepilogo>
+      <IVA>
+        <AliquotaIVA>5.0</AliquotaIVA>
+        <Imposta>5.0</Imposta>
+      </IVA>
+      <Natura>N2</Natura>
+      <VentilazioneIVA>SI</VentilazioneIVA>
+      <Ammontare>5.0</Ammontare>
+      <RifNormativo>5</RifNormativo>
+      <ImportoParziale>5.0</ImportoParziale>
+      <TotaleAmmontareResi>5.0</TotaleAmmontareResi>
+      <TotaleAmmontareAnnulli>5.0</TotaleAmmontareAnnulli>
+      <BeniInSospeso>5.0</BeniInSospeso>
+      <NonRiscossoServizi>5.0</NonRiscossoServizi>
+      <NonRiscossoFatture>5.0</NonRiscossoFatture>
+      <TotaleDaFattureRT>5.0</TotaleDaFattureRT>
+      <NonRiscossoDCRaSSN>5.0</NonRiscossoDCRaSSN>
+      <NonRiscossoOmaggio>5.0</NonRiscossoOmaggio>
+      <CodiceAttivita>5</CodiceAttivita>
+      <Totali>
+        <NumeroDocCommerciali>5</NumeroDocCommerciali>
+        <PagatoContanti>5.0</PagatoContanti>
+        <PagatoElettronico>5.0</PagatoElettronico>
+        <ScontoApagare>5.0</ScontoApagare>
+        <Ticket>
+          <PagatoTicket>5.0</PagatoTicket>
+          <NumeroTicket>5</NumeroTicket>
+        </Ticket>
+      </Totali>
+    </Riepilogo>
+  </DatiRT>
+  <DatiDA>
+    <Periodo>
+      <Venduto />
+      <VendutoContante />
+      <VendutoNoContante />
+      <Incassato />
+      <IncassatoRicarica />
+      <IncassatoVendita />
+      <TotaleResoTubiResto />
+      <TotaleCaricatoTubiResto />
+      <TotaleResoManualeTubiResto />
+      <TotaleCaricatoManualeTubiResto />
+      <DataOraPrelievoPrec />
+      <ProgressivoPrelievo />
+    </Periodo>
+    <Cumulato>
+      <Venduto />
+      <VendutoContante />
+      <VendutoNoContante />
+      <Incassato />
+      <IncassatoRicarica />
+      <IncassatoVendita />
+      <TotaleResoTubiResto />
+      <TotaleCaricatoTubiResto />
+      <TotaleResoManualeTubiResto />
+      <TotaleCaricatoManualeTubiResto />
+    </Cumulato>
+  </DatiDA>
+  <InterventoTecnico>
+    <CFTecnico />
+    <IdIVALaboratorio>
+      <IdPaese />
+      <IdCodice />
+    </IdIVALaboratorio>
+    <DataOra />
+    <Codice />
+    <NumeroSw />
+    <DataRelease />
+    <Note />
+  </InterventoTecnico>
+  <Segnalazione>
+    <Matricola />
+    <DataOra />
+    <Codice />
+    <Note />
+  </Segnalazione>
+</DatiCorrispettivi>
+
